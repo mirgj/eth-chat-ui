@@ -3,6 +3,7 @@
   "description": "UI for eth-chat",
   "version": "0.1.0",
   "dependencies": {
+    "ethers": "^3.0.21",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",
