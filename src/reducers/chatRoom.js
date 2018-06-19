@@ -1,6 +1,8 @@
 const initialState = {
   users: [],
-  messages: [],
+  user_count: 0,
+  name: '',
+  owner: '',
 };
 
 export default function chatRooms(state = initialState, action) {

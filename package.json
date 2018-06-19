@@ -8,7 +8,8 @@
     "react-dom": "^16.4.0",
     "react-redux": "^5.0.7",
     "react-scripts": "1.1.4",
-    "redux": "^4.0.0"
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "pretest": "eslint --ignore-path .gitignore .",
@@ -22,6 +23,7 @@
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-standard-react": "^6.0.0",
-    "eslint-plugin-react": "^7.9.1"
+    "eslint-plugin-react": "^7.9.1",
+    "prop-types": "^15.6.1"
   }
 }
